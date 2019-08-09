@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+header{
+    color: #FFFFFF;
+    background-color: #24222A
+}
+
+body{
+    color: #FFFFFF;
+    background-color: #18171C
+}
+
+thead{
+    color: #A394D1;
+    background-color: #302E38
+}
+
+tbody{
+    background-color: #302E38
+}
+
+textarea {
+  min-width: 1000px;
+  min-height: 500px;
+}
+
+nav{
+    background-color: #302E38
+}
+
+h1,h2,h3,h4,h5{
+    color: #A394D1;
+}
+
+th{
+    
+}
